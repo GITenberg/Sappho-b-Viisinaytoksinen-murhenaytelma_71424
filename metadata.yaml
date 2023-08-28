@@ -1,0 +1,36 @@
+_repo: Sappho-b-Viisinaytoksinen-murhenaytelma_71424
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+creator:
+  author:
+    agent_name: Grillparzer, Franz
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '2585'
+    url: http://www.gutenberg.org/2009/agents/2585
+    wikipedia: https://en.wikipedia.org/wiki/Franz_Grillparzer
+description: ''
+gutenberg_issued: '2023-08-17'
+identifiers:
+  gutenberg: '71424'
+language: fi
+pgterms:marc905: 20230716060848grillparze
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sappho : $b Viisinäytöksinen murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/71424
