@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9084'
     url: http://www.gutenberg.org/2009/agents/9084
     wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grillparzer, Franz
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2585
     wikipedia: https://en.wikipedia.org/wiki/Franz_Grillparzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71424#Sappho-b-Viisinaytoksinen-murhenaytelma
 gutenberg_issued: '2023-08-17'
 identifiers:
   gutenberg: '71424'
